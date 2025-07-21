@@ -25,22 +25,6 @@ The analysis is performed on the `social_media_engagement.csv` dataset. Key colu
 * **Pandas** (for converting Spark DataFrame for visualization)
 * **Matplotlib & Seaborn** (for plotting)
 
-## 🚀 How to Run
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    ```
-2.  **Install dependencies:**
-    It's recommended to use a virtual environment. Install the required libraries from the `requirements.txt` file.
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Launch Jupyter Notebook:**
-    ```bash
-    jupyter notebook
-    ```
-4.  Open the `22UG1_0390_Lab_09_Big_Data.ipynb` file and run the cells.
 
 ## ✨ Features & Analysis Performed
 
